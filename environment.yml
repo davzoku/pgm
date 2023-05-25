@@ -1,0 +1,10 @@
+name: pgm
+channels:
+  - defaults
+dependencies:
+  - pgmpy
+  - jupyterlab
+  - graphviz
+  - pygraphviz
+  - scikit-learn
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/pgm
